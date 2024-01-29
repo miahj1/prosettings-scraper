@@ -1,6 +1,6 @@
 # Prosettings Scraper
 
-Client wanted all the elements listed in the images below. The only image included into the table are profile pictures.
+Client wanted all the elements listed in the images below. 
 
 ![image](https://github.com/miahj1/prosettings-scraper/assets/84815985/c2691276-178f-4899-8ef9-c0bd19abc67f)
 ![image](https://github.com/miahj1/prosettings-scraper/assets/84815985/7658b264-cdd4-414b-aa70-8497d2104a6f)
