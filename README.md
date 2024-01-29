@@ -22,9 +22,9 @@ Elements the client wanted extracted from each player's page are listed as follo
 - The `gear` section which consists of the player's `monitor`, `mouse`, `keyboard`, `headset`, `mousepad`, and `earphones`.
 - The `biography` section which contains the player's `team name`, the player's `name`, the player's `country`, the player's `birthday`, and a `description` of the player's background.
 - `Mouse` section with configurations: `DPI`, `sensitivity`, `eDPI`, `zoom sensitivity`, `hz`, and `windows sensitivity`.
-- `Crosshair` section that has `drawoutline` all the way to `sniper width`.
+- `Crosshair` section that has `drawoutline` all the way to `sniper width` including all the other sections such as `viewmodel`, `launch options`, `video settings`, `hud`, `radar config`, `skins`, `pc specs`, `setup & streaming`, `monitor settings`, and `graphics card settings`.
 
-Client wanted all the elements listed in the images below. 
+Images of the elements are avaiable below.
 
 ![image](https://github.com/miahj1/prosettings-scraper/assets/84815985/c2691276-178f-4899-8ef9-c0bd19abc67f)
 ![image](https://github.com/miahj1/prosettings-scraper/assets/84815985/7658b264-cdd4-414b-aa70-8497d2104a6f)
