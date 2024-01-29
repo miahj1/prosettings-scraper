@@ -17,6 +17,12 @@ ProSettings.net, founded by brothers Kai and Max in 2016, is a dedicated platfor
 - itertools
 
 ## Summary
+The client this time around requested a lot of data from prosettings Counter Strike 2 e-sports listing: the website lists the equipment of popular e-sports players including a biography of said player.
+Elements the client wanted extracted from each player's page are listed as follows:
+- The `gear` section which consists of the player's `monitor`, `mouse`, `keyboard`, `headset`, `mousepad`, and `earphones`.
+- The `biography` section which contains the player's `team name`, the player's `name`, the player's `country`, the player's `birthday`, and a `description` of the player's background.
+- `Mouse` section with configurations: `DPI`, `sensitivity`, `eDPI`, `zoom sensitivity`, `hz`, and `windows sensitivity`.
+- `Crosshair` section that has `drawoutline` all the way to `sniper width`.
 
 Client wanted all the elements listed in the images below. 
 
@@ -36,8 +42,9 @@ Client wanted all the elements listed in the images below.
 ![image](https://github.com/miahj1/prosettings-scraper/assets/84815985/ab44ddb5-f154-4e48-bcaa-1f2f189e6860)
 ![image](https://github.com/miahj1/prosettings-scraper/assets/84815985/09df146c-8fbd-4a38-b55d-f9f2b006231c)
 
-
-
+## Client Feedback
+<picture><img alt="UpWork Client Feedback" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/9fd2e00b-d5b4-4471-a088-2fb1511d6329"></picture><br>
+Access [Jabed's Upwork Profile](https://www.upwork.com/freelancers/~015c02be44f8ce7ceb).
 
 
 
