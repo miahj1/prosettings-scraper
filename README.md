@@ -1,4 +1,13 @@
 # Prosettings Scraper
+![image](https://github.com/miahj1/prosettings-scraper/assets/84815985/a7c6a14f-4d67-4919-a923-694f20a67ebc)
+
+ProSettings.net, founded by brothers Kai and Max in 2016, is a dedicated platform driven by passionate gamers with a vision to be the ultimate hub for competitive gaming, offering in-depth gear guides, reviews, and informative articles while maintaining a genuine connection with the gaming community.
+
+## Python Modules
+- selenium
+- beautiful soup 4
+- 
+
 
 Client wanted all the elements listed in the images below. 
 
