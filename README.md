@@ -21,7 +21,7 @@ The client this time around requested a lot of data from the prosettings Counter
 
 Elements the clients want extracted from each player's page are listed as follows:
 - The `gear` section which consists of the player's `monitor`, `mouse`, `keyboard`, `headset`, `mousepad`, and `earphones`.
-- The `biography` section which contains the player's `team name`, the player's `name`, the player's `country`, the player's `birthday`, and a `description` of the player's background.
+- The `biography` section which contains the player's `team name`, the player's `name`, the player's `country`, the player's `birthday`, the player's `social media` and a `description` of the player's background.
 - `Mouse` section with configurations: `DPI`, `sensitivity`, `eDPI`, `zoom sensitivity`, `hz`, and `windows sensitivity`.
 - `Crosshair` section that has `drawoutline` all the way to `sniper width` including all the other sections such as `viewmodel`, `launch options`, `video settings`, `hud`, `radar config`, `configuration file`, `skins`, `pc specs`, `setup & streaming`, `monitor settings`, and `graphics card settings`.
 
@@ -42,6 +42,11 @@ Images of the elements are available below.
 <picture><img alt="setup & streaming section" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/f7779b01-d977-4056-b0f1-801c9101f19c"></picture>
 <picture><img alt="monitor settings section" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/ab44ddb5-f154-4e48-bcaa-1f2f189e6860"></picture>
 <picture><img alt="graphics card settings section" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/09df146c-8fbd-4a38-b55d-f9f2b006231c"></picture>
+
+## Data Preview
+A sneakpeak into what the collected, organized, and pre-processed data looks like.
+
+<picture><img alt="prosettings data preview" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/1950ceae-7d63-4dec-b484-3c44a5d2857d"></picture>
 
 ## Client Feedback
 <picture><img alt="UpWork Client Feedback" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/9fd2e00b-d5b4-4471-a088-2fb1511d6329"></picture><br>
