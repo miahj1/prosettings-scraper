@@ -17,14 +17,15 @@ ProSettings.net, founded by brothers Kai and Max in 2016, is a dedicated platfor
 - itertools
 
 ## Summary
-The client this time around requested a lot of data from prosettings Counter Strike 2 e-sports listing: the website lists the equipment of popular e-sports players including a biography of said player.
-Elements the client wanted extracted from each player's page are listed as follows:
+The client this time around requested a lot of data from the prosettings Counter Strike 2 e-sports listing: the website lists the equipment of popular e-sports players including a biography of said player.
+
+Elements the clients want extracted from each player's page are listed as follows:
 - The `gear` section which consists of the player's `monitor`, `mouse`, `keyboard`, `headset`, `mousepad`, and `earphones`.
 - The `biography` section which contains the player's `team name`, the player's `name`, the player's `country`, the player's `birthday`, and a `description` of the player's background.
 - `Mouse` section with configurations: `DPI`, `sensitivity`, `eDPI`, `zoom sensitivity`, `hz`, and `windows sensitivity`.
 - `Crosshair` section that has `drawoutline` all the way to `sniper width` including all the other sections such as `viewmodel`, `launch options`, `video settings`, `hud`, `radar config`, `configuration file`, `skins`, `pc specs`, `setup & streaming`, `monitor settings`, and `graphics card settings`.
 
-Images of the elements are avaiable below.
+Images of the elements are available below.
 
 <picture><img alt="gear section" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/c2691276-178f-4899-8ef9-c0bd19abc67f"></picture>
 <picture><img alt="bio section" src="https://github.com/miahj1/prosettings-scraper/assets/84815985/7658b264-cdd4-414b-aa70-8497d2104a6f"></picture>
